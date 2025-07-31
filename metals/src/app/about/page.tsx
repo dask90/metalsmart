@@ -23,15 +23,15 @@ export default function AboutPage() {
             MetalsMart is a trusted supplier of high-quality building and
             construction materials, including iron rods, galvanized and aluminum
             roofing sheets, angle bars, flat bars, and more. With years of
-            experience in the industry, we’ve grown from a small local
+            experience in the industry, we&rsquo;ve grown from a small local
             distributor into a major supplier serving contractors, engineers,
             and developers across Ghana and West Africa.
           </p>
           <p>
             Our reputation is built on consistency, transparency, and fast
-            delivery. Whether you're building a home, office, warehouse, or
-            industrial site — we supply durable materials that meet both local
-            and international standards.
+            delivery. Whether you&rsquo;re building a home, office, warehouse,
+            or industrial site — we supply durable materials that meet both
+            local and international standards.
           </p>
         </section>
 
@@ -91,7 +91,7 @@ export default function AboutPage() {
           <h2>Ready to Get Started?</h2>
           <p>
             Contact us today for pricing, availability, and delivery options —
-            and let’s build something strong together.
+            and let&rsquo;s build something strong together.
           </p>
           <a href="/services" className="btn-outline">
             View Our Services

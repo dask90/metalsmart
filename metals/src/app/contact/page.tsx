@@ -11,8 +11,8 @@ export default function ContactPage() {
         <section className="contact-hero">
           <h1>Contact Us</h1>
           <p>
-            We’re ready to supply your next build — reach out today for quotes,
-            availability, and support.
+            We&rsquo;re ready to supply your next build — reach out today for
+            quotes, availability, and support.
           </p>
         </section>
 
@@ -20,11 +20,11 @@ export default function ContactPage() {
         <section className="contact-section">
           {/* Contact Info */}
           <div className="contact-info">
-            <h2>Let's Talk</h2>
+            <h2>Let&rsquo;s Talk</h2>
             <p>
-              Whether you're a contractor, builder, engineer, or individual
-              homeowner — our team is here to help you get the right materials
-              fast and affordably.
+              Whether you&rsquo;re a contractor, builder, engineer, or
+              individual homeowner — our team is here to help you get the right
+              materials fast and affordably.
             </p>
             <ul>
               <li>
