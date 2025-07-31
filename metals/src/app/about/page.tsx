@@ -90,8 +90,8 @@ export default function AboutPage() {
         <section className="about-cta">
           <h2>Ready to Get Started?</h2>
           <p>
-            Contact us today for pricing, availability, and delivery options —
-            and let&rsquo;s build something strong together.
+            Contact us today for pricing, availability, and delivery options and
+            let&rsquo;s build something strong together.
           </p>
           <a href="/services" className="btn-outline">
             View Our Services

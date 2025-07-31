@@ -36,7 +36,7 @@ export default function ContactPage() {
                 <a href="mailto:sales@metalsmart.com">sales@metalsmart.com</a>
               </li>
               <li>
-                <strong>Office Hours:</strong> Mon – Sat, 7:00 AM – 6:00 PM
+                <strong>Office Hours:</strong> Mon to Sat, 7:00 AM to 6:00 PM
               </li>
               <li>
                 <strong>Location:</strong> MetalsMart Yard, Spintex Road, Accra,
